@@ -19,7 +19,7 @@ Except from Vanilla Javascript, I use ![](./img/vue.png) **VueJS** (that I reall
 
 The last thing I've learned and I am very excited about is ![](./img/docker.png) **Docker** and docker-compose.
 
-Currently I'm learning ![](./img/angular.png) **Angular** and ![](./img/ts.png) **Typescript**.
+Currently I'm learning ![](https://raw.githubusercontent.com/kornarakis/kornarakis/master/img/angular.png) **Angular** and ![](./img/ts.png) **Typescript**.
 
 My favorite editor is ![](./img/vs.png) **VSCode** (previously was SublimeText) with a ton of extensions to improve my workflow and day to day tasks.
 
