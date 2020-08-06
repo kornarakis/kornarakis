@@ -29,7 +29,7 @@ For server management I've used ![](https://raw.githubusercontent.com/kornarakis
 
 For my personal repos I'm using mainly ![](https://raw.githubusercontent.com/kornarakis/kornarakis/master/img/bb.png) **Bitbucket**.
 
-I've also have a strong background as a CGArtist with with experience on design apps like Photoshop, Illustrator, Painter and Flash. And experience in 3D Animation with Blender, Maya and zBrush.
+I've also have a strong background as a CGArtist with experience on design apps like Photoshop, Illustrator, Painter and Flash. And experience in 3D Animation with Blender, Maya and zBrush.
 
 On my free time I love taking my 🚴‍♂️ bike for a spin and playing with my electric  🎸guitar.
 
