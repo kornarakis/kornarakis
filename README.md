@@ -1,13 +1,13 @@
 ### Hello world
 
 
-my name is Nikos , I come from Greece and I live in the beautiful island of Crete.
+my name is Nikos , I come from Greece and I live on the beautiful island of Crete.
 
-I work as a web developer for the last 14 years and I am still passionate in learning what’s new in web technologies. 
+I have worked as a web developer for the last 14 years and I am still passionate about learning what’s new in web technologies. 
 
 I'm currently working at [Phaistos Networks S.A.](https://github.com/phaistos-networks) as a Lead Developer.
 
-If you are looking a huge fan of ![](https://raw.githubusercontent.com/kornarakis/kornarakis/master/img/vue.png) **VueJS** and ![](https://raw.githubusercontent.com/kornarakis/kornarakis/master/img/codeigniter.png) **Codeigniter**, you just found it.
+If you are looking for a huge fan of ![](https://raw.githubusercontent.com/kornarakis/kornarakis/master/img/vue.png) **VueJS** and ![](https://raw.githubusercontent.com/kornarakis/kornarakis/master/img/codeigniter.png) **Codeigniter**, you just found it.
 
 I've built more than 170 custom premium websites from scratch with custom CMS for every client, as a result of which I gained a lot of experience on backend development, frontend development, SEO optimization and servers configuration.
 
@@ -31,7 +31,7 @@ For my personal repos I'm using mainly ![](https://raw.githubusercontent.com/kor
 
 I've also have a strong background as a CGArtist with experience on design apps like Photoshop, Illustrator, Painter and Flash. And experience in 3D Animation with Blender, Maya and zBrush.
 
-On my free time I love taking my 🚴‍♂️ bike for a spin and playing with my electric  🎸guitar.
+In my free time I love taking my 🚴‍♂️ bike for a spin and playing with my electric  🎸guitar.
 
 
 thank you for your time to read about me :) , feel free to contact me on my social media
